@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unsia\\Kuliah\\Semester 1\\Pemrograman Visual\\UAS\\Import Export Excel App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D32B471-D1F9-418D-B25B-DAFC0A56442B}|Import Export Excel App\\Import Export Excel App.vbproj|d:\\unsia\\kuliah\\semester 1\\pemrograman visual\\uas\\import export excel app\\import export excel app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7D32B471-D1F9-418D-B25B-DAFC0A56442B}|Import Export Excel App\\Import Export Excel App.vbproj|solutionrelative:import export excel app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D32B471-D1F9-418D-B25B-DAFC0A56442B}|Import Export Excel App\\Import Export Excel App.vbproj|d:\\unsia\\kuliah\\semester 1\\pemrograman visual\\uas\\import export excel app\\import export excel app\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D32B471-D1F9-418D-B25B-DAFC0A56442B}|Import Export Excel App\\Import Export Excel App.vbproj|solutionrelative:import export excel app\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\Unsia\\Kuliah\\Semester 1\\Pemrograman Visual\\UAS\\Import Export Excel App\\Import Export Excel App\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Import Export Excel App\\Form1.Designer.vb",
+              "ToolTip": "D:\\Unsia\\Kuliah\\Semester 1\\Pemrograman Visual\\UAS\\Import Export Excel App\\Import Export Excel App\\Form1.Designer.vb",
+              "RelativeToolTip": "Import Export Excel App\\Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-11T04:57:14.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Unsia\\Kuliah\\Semester 1\\Pemrograman Visual\\UAS\\Import Export Excel App\\Import Export Excel App\\Form1.vb",
+              "RelativeDocumentMoniker": "Import Export Excel App\\Form1.vb",
+              "ToolTip": "D:\\Unsia\\Kuliah\\Semester 1\\Pemrograman Visual\\UAS\\Import Export Excel App\\Import Export Excel App\\Form1.vb [Design]",
+              "RelativeToolTip": "Import Export Excel App\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-11T04:57:24.7Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

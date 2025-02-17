@@ -1,0 +1,63 @@
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\Import Export Excel App.exe
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\Import Export Excel App.deps.json
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\Import Export Excel App.runtimeconfig.json
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\Import Export Excel App.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\Import Export Excel App.pdb
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import_Export_Excel_App.Form1.resources
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.vbproj.GenerateResource.cache
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.AssemblyInfoInputs.cache
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.AssemblyInfo.vb
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.vbproj.CoreCompileInputs.cache
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.sourcelink.json
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\refint\Import Export Excel App.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.pdb
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.genruntimeconfig.cache
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\ref\Import Export Excel App.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Core.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.vbproj.ResolveComReference.cache
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.vbproj.AssemblyReference.cache
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import E.A67824AD.Up2Date
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\VB\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import_Export_Excel_App.Resources.resources
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\Import Export Excel App.exe
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\Import Export Excel App.deps.json
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\Import Export Excel App.runtimeconfig.json
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\Import Export Excel App.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\Import Export Excel App.pdb
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.vbproj.AssemblyReference.cache
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Core.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.vbproj.ResolveComReference.cache
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import_Export_Excel_App.Form1.resources
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import_Export_Excel_App.Resources.resources
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.vbproj.GenerateResource.cache
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.AssemblyInfoInputs.cache
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.AssemblyInfo.vb
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.vbproj.CoreCompileInputs.cache
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import E.A67824AD.Up2Date
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\refint\Import Export Excel App.dll
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.pdb
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\Import Export Excel App.genruntimeconfig.cache
+D:\Unsia\Kuliah\Semester 1\Pemrograman Visual\UAS\Import Export Excel App\Import Export Excel App\obj\Debug\net8.0-windows\ref\Import Export Excel App.dll

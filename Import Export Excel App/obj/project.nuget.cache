@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3EWbsCIyvVw=",
+  "success": true,
+  "projectFilePath": "D:\\Unsia\\Kuliah\\Semester 1\\Pemrograman Visual\\UAS\\Import Export Excel App\\Import Export Excel App\\Import Export Excel App.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naras\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.1\\system.configuration.configurationmanager.9.0.1.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\system.data.oledb\\9.0.1\\system.data.oledb.9.0.1.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.1\\system.diagnostics.eventlog.9.0.1.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.1\\system.diagnostics.performancecounter.9.0.1.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.1\\system.security.cryptography.protecteddata.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
